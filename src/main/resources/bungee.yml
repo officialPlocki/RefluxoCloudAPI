@@ -1,0 +1,5 @@
+name: CloudService
+description: RefluxoCloud Service Plugin
+version: 1.0-SNAPSHOT
+author: plocki
+main: me.refluxo.cloudapi.bungeecord.CloudAPI

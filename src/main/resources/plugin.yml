@@ -1,0 +1,14 @@
+main: me.refluxo.cloudapi.spigot.CloudAPI
+website: https://refluxo.me
+load: STARTUP
+version: 1.0-SNAPSHOT
+api-version: 1.13
+author: plocki
+description: RefluxoCloud Service Plugin
+name: CloudService
+commands:
+  cloud:
+  refluxocloud:
+  rcloud:
+  cv:
+  cloudversion:
